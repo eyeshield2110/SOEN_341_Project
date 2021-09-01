@@ -7,6 +7,9 @@ Web application (Instagram clone) with core features:
 - Displaying user profiles
 - Liking/unliking posts
 
+## To run:
+npm start
+
 ## Team members
 - Jananee Aruboribaran 40129224 (github:  BunnyPrince)
 - Noah-James Dinh 40128079 (github: eyeshield2110)
