@@ -55,10 +55,14 @@ Inside the root directory, run the following command
 - Thanh Ta 40085781 (github: mth-1012)
 
 ## Technologies
-- Javascript
-- MongoDB
-- Node.js
-- Express
-- Mongoose
-- React.js (TBD)
+### Frontend
+- HTML, CSS, Vanilla Javascript
+- Bootstrap5 - [Responsive Web Framework](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- EJS - [Embedded Javascript Templating](https://ejs.co/). This allows us to inject backend js code into frontend HTML 
+### Backend
+- MongoDB - [Local NoSQL database](https://www.mongodb.com/)
+- Cloudinary API - [Cloud storage service](https://cloudinary.com/)
+- Node.js with Express.js - [Lightweight node web framework](https://expressjs.com/)
+
+
 
