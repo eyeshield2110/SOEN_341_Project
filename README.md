@@ -1,3 +1,4 @@
+
 # SOEN 341 Project
 ## Project description
 Web application (Instagram clone) with core features:
@@ -8,11 +9,43 @@ Web application (Instagram clone) with core features:
 - Liking/unliking posts
 
 ## Demo
-![Instagram_login](https://user-images.githubusercontent.com/46866682/131888691-a241961f-2eca-4c19-b46d-ae74d2561387.gif)
+### Login & Personalized Dashboard
+User logs in and is redirected to their dashboard, where they can view posts uploaded from people they follow
+
+![Instagram_login2](https://user-images.githubusercontent.com/46866682/131889202-f149bbd1-feca-4547-9809-984ea9847f7e.gif)
+
+### Comments
+User can comment on posts. They are authorized to delete their own comments, but not those of others.
+
+![Instagram_comment1](https://user-images.githubusercontent.com/46866682/131890774-a626e69c-7e86-4d3f-bd84-ad3e65255b97.gif)
+
+### User profile and Follow
+User can view other user profiles, check their lists of followers and follows, and follow/unfollow them.
+
+![Instagram_user_follow](https://user-images.githubusercontent.com/46866682/131892819-d079303e-9305-4d40-b105-bba024b5358f.gif)
+
+Following (or unfollowing) adds (or remove) the target user's contents from our dashboard.
+
+![Instagram_user_follow1](https://user-images.githubusercontent.com/46866682/131893659-a89952be-45e4-454b-b721-003fe82a78e7.gif)
+
+### Uploading images & Posting
+User can create posts - A post contains an image (stored in the cloud storage Cloudinary) and a caption.
+
+![Instagram_post](https://user-images.githubusercontent.com/46866682/131896241-508cacff-1123-4f94-abcd-3a07da1ec740.gif)
+
+User can then edit their post.
+
+![Instagram_edit](https://user-images.githubusercontent.com/46866682/131896672-f6605728-ba1d-466d-852e-8b414ec17507.gif)
+
+### Likes and list of likes
+User can like posts, and see the people who like a post
+
+![Instagram_like](https://user-images.githubusercontent.com/46866682/131898075-c38b4970-97e6-4737-9e8a-631d1f8bb02b.gif)
 
 
 ## To run:
-npm start
+Inside the root directory, run the following command
+`$    npm start`
 
 ## Team members
 - Jananee Aruboribaran 40129224 (github:  BunnyPrince)
