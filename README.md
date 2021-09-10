@@ -44,8 +44,17 @@ User can like posts, and see the people who like a post
 
 
 ## To run:
-Inside the root directory, run the following command
+#### Clone the repo on the command line
+`$    git clone eyeshield2110/SOEN_341_Project`
+#### Install all the node package dependencies
+`$    npm install`
+#### Inside the root directory, run the following command
 `$    npm start`
+#### To end the connection to the local server
+`CTRL` + `Z`
+
+## Architecture design (by [Madline](https://www.github.com/madeleine3341))
+![image](https://user-images.githubusercontent.com/77517286/115093780-6bea0700-9ee9-11eb-962b-997e8442601e.png)
 
 ## Team members
 - Jananee Aruboribaran 40129224 (github:  BunnyPrince)
